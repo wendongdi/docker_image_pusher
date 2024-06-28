@@ -18,3 +18,4 @@
 #confluentinc/cp-schema-registry:7.4.0
 #confluentinc/cp-zookeeper:7.4.0
 library/hello-world
+library/flink
