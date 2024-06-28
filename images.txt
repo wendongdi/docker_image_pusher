@@ -19,5 +19,5 @@
 #confluentinc/cp-zookeeper:7.4.0
 #library/hello-world
 #library/flink
-#flink:1.18
-dinky/dinky:1.0.3-flink1.18
+flink:1.17
+#dinky/dinky:1.0.3-flink1.18
