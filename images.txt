@@ -13,11 +13,11 @@
 #elasticsearch:7.10.1
 #acryldata/datahub-elasticsearch-setup:head
 #acryldata/datahub-kafka-setup:head
-#mysql:8.2
+mysql:5.7
 #acryldata/datahub-mysql-setup:head
 #confluentinc/cp-schema-registry:7.4.0
 #confluentinc/cp-zookeeper:7.4.0
 #library/hello-world
 #library/flink
 #flink:1.17
-dinkydocker/dinky:1.0.3-flink1.18
+#dinkydocker/dinky:1.0.3-flink1.18
