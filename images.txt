@@ -19,3 +19,4 @@
 #confluentinc/cp-zookeeper:7.4.0
 library/hello-world
 library/flink
+flink:1.18
