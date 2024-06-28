@@ -20,4 +20,4 @@
 #library/hello-world
 #library/flink
 #flink:1.18
-dinkydocker/dinky-standalone-server
+dinky/dinky
