@@ -21,3 +21,4 @@ mysql:5.7
 #library/flink
 #flink:1.17
 #dinkydocker/dinky:1.0.3-flink1.18
+postgresql:14.2
