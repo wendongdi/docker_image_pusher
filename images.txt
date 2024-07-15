@@ -18,7 +18,7 @@
 #confluentinc/cp-schema-registry:7.4.0
 #confluentinc/cp-zookeeper:7.4.0
 #library/hello-world
-#library/flink
+library/flink
 #flink:1.17
 #dinkydocker/dinky:1.0.3-flink1.18
-postgres:14.12
+#postgres:14.12
