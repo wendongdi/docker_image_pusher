@@ -1,10 +1,3 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-#datahub
 confluentinc/cp-kafka:7.4.0
 acryldata/datahub-actions:head
 acryldata/datahub-frontend-react:head
@@ -13,11 +6,7 @@ acryldata/datahub-upgrade:head
 elasticsearch:7.10.1
 acryldata/datahub-elasticsearch-setup:head
 acryldata/datahub-kafka-setup:head
-#mysql:5.7
+mysql:8.2
+acryldata/datahub-mysql-setup:head
 confluentinc/cp-schema-registry:7.4.0
 confluentinc/cp-zookeeper:7.4.0
-library/hello-world
-#library/flink
-#flink:1.17
-#dinkydocker/dinky:1.0.3-flink1.18
-#postgres:14.12
