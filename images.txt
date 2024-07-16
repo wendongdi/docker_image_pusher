@@ -10,3 +10,4 @@ mysql:8.2
 acryldata/datahub-mysql-setup:head
 confluentinc/cp-schema-registry:7.4.0
 confluentinc/cp-zookeeper:7.4.0
+#dinkydocker/dinky:1.0.3-flink1.18
